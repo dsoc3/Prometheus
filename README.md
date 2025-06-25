@@ -1,6 +1,10 @@
 # Prometheus
 DevSecOps Club Prometheus Monitoring Tutorial
 ---
+### [Setting Up Prometheus, Grafana, and Node Exporter Monitoring Stack on Ubuntu Linux](https://www.youtube.com/watch?v=MwSqH-CCvIs)
+
+[![Watch the video](https://img.youtube.com/vi/MwSqH-CCvIs/0.jpg)](https://www.youtube.com/watch?v=MwSqH-CCvIs)
+
 
 📢 **License Notice**
 
